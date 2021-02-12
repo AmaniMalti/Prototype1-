@@ -29,3 +29,4 @@ public class playerMovement : MonoBehaviour
         controller.Move(velocity * Time.deltaTime);
     }
 }
+//https://www.youtube.com/watch?v=_QajrabyTJc
