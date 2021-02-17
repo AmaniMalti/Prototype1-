@@ -29,3 +29,4 @@ public class MouseLook : MonoBehaviour
         playerBody.Rotate(Vector3.up * mouseX);
     }
 }
+//https://www.youtube.com/watch?v=_QajrabyTJc
